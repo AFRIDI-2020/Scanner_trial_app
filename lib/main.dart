@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:scanners/document_scanner_view.dart';
 import 'package:scanners/image_reader.dart';
 import 'package:scanners/text_recognition.dart';
 
